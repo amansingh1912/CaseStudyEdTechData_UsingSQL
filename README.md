@@ -229,16 +229,15 @@ group by lead_stage;
 
 ## Key Insights:
 
-•With respect to Gender “Female”, English is mostly preferred when the demo session is watched.
-•With respect to Gender “Male”, English is mostly preferred when the demo session is watched.
-•Hyderabad city has the most number of leads.
-•English has the most average watched percentage overall.
-•Social Media, SEO & Email-Marketing has the highest total count of lead generation.
-•85% is the total % of successful calls and 15 % is the total % of unsuccessful calls.
-•Lead in lead_stage has the highest number of calls.
-•Conversion in lead_stage has the least no. of calls.
-•% Successful calls are the highest in the “conversion” lead stage.
-•% Unsuccessful calls are the highest in the “lead” lead stage.
+* With respect to Gender “Female”, English is mostly preferred when the demo session is watched.•With respect to Gender “Male”, English is mostly preferred when the demo session is watched.
+* Hyderabad city has the most number of leads.
+* English has the most average watched percentage overall.
+* Social Media, SEO & Email-Marketing has the highest total count of lead generation.
+* 85% is the total % of successful calls and 15 % is the total % of unsuccessful calls.
+* Lead in lead_stage has the highest number of calls.
+* Conversion in lead_stage has the least no. of calls.
+* % Successful calls are the highest in the “conversion” lead stage.
+* % Unsuccessful calls are the highest in the “lead” lead stage.
 
 
 
