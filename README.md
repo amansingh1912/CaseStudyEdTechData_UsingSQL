@@ -6,7 +6,7 @@ Here the SQL queries used in the case study are JOINS, GROUP BY, ORDER BY, WINDO
 ![EdTech Startup logo](https://user-images.githubusercontent.com/72240938/212818020-c2350aea-3f53-49a9-ab21-2d0489ad6001.png)
 
 
-### [Link To Dataset] (https://www.kaggle.com/datasets/nxtwaveda/data-analyst)
+### [Link To Dataset](https://www.kaggle.com/datasets/nxtwaveda/data-analyst)
 
 The datasets I worked with in this case study are leads_basic_details, leads_interaction_details, and leads_demo_watched_details.
 
